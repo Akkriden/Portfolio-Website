@@ -1,2 +1,3 @@
-# PortfolioWebsite
-A portfolio website to display the projects that I've been involved in
+# Portfolio Website
+
+This is an attempt to make a portfolio website to display the projects that I've been involved in
